@@ -5,11 +5,11 @@ model = joblib.load('new_vehicle_mileage_model.pkl')
 st.markdown(
     """
     <style>
-    /* Hide Streamlit's header */
+    
     header {
         visibility: hidden;
     }
-    /* Hide Streamlit's footer */
+   
     footer {
         visibility: hidden;
     }
